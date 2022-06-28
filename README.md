@@ -1,4 +1,4 @@
-### Oii!! Eu sou a Monique!
+### Oii!! Eu sou a Monique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - 🔭 Técnica suporte n1
 - 📚 Estudante de telecomunicações
