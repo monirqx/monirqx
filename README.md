@@ -6,8 +6,7 @@
 <div align="center">
   <a href="https://github.com/monirqx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monirqx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirqx&layout=compact&langs_count=7&theme=radical"/>
-    <img align="right" alt="Monique-pic" height="150" style="border-radius:50px;" src="<img align="right" alt="Monique-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/991390645837107252/991390646348816488/991390691580198992">
+    <img align="right" alt="Monique-pic" height="150" style="border-radius:50px;" src="<img align="right" alt="Monique-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/7e4ded2a568434cb73b62485abdab774.gif">
 </div>
 
 ## 
