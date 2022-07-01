@@ -5,8 +5,8 @@
 - 💜 ela/dela
 <div align="center">
   <a href="https://github.com/monirqx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=monirqx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirqx&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=monirqx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirqx&layout=compact&langs_count=7&theme=synthwave"/>
  
 </div>
 
